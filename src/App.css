@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: Lato, sans-serif;
+  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+}
+
+html, body {
+  background-color: #ccc;
+}
+
+.App {
+  min-height: 100vh;
+  display: flex;
+  flex-wrap:  wrap;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.description__wrapper {
+  min-height: 600px;
+  display: flex;
+  flex-wrap:  wrap;
+  align-items: center;
+  justify-content: center;
+}
+
+.Cards__wrapper {
+  min-height: 650px;
+  width: 85%;
+  display: flex;
+  justify-content: space-between;
+}

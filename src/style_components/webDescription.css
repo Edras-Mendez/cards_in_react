@@ -1,0 +1,22 @@
+.description__container {
+  background-color: #fff;
+  width: 85%;
+  height: 368px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-radius: 25px;
+}
+
+.img__container {
+  width: auto;
+  height: 100%;
+}
+
+.text__wrapper {
+  text-align: center;
+  margin-right: 50px;
+  padding: 30px;
+  height: auto;
+  width: 50%;
+}
